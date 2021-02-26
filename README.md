@@ -1,5 +1,5 @@
 # Facebook-Hunter
-Facebook information gathering tool using Facebook's Graph API and Python3. (The working version of fbi tool).
+Facebook information gathering tool using Facebook's Graph API and Python3.
 
 
 # Featues
@@ -26,7 +26,5 @@ Facebook information gathering tool using Facebook's Graph API and Python3. (The
 
 
 # Contributors
-- There are many ways to improve this project, feel free to contribute with your pull request or contacting me.
+- There are many ways to improve this project, feel free to contribute with your pull request.
 
-# Contact the Author
-- Email : pr0xy07@tutanota.com
